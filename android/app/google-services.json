@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026570035833",
+    "project_id": "morphosis-6f3ab",
+    "storage_bucket": "morphosis-6f3ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026570035833:android:e44b475266990b9a5a6aa8",
+        "android_client_info": {
+          "package_name": "com.example.interview_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026570035833-64qp85pqbr20i8ac0dhle8nvnfv869hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.interview_task",
+            "certificate_hash": "3af4f0aedd386d71e1851e3cd431acb518915ba8"
+          }
+        },
+        {
+          "client_id": "1026570035833-gog4puua33fnppsu5rmlp45teni9u07u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8j9xCNUBU_LGDb_SF5pCm3OdE8GX0ZTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026570035833-gog4puua33fnppsu5rmlp45teni9u07u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+name: interview_task
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  auto_route: ^3.2.2
+  cloud_firestore: ^3.1.7
+  connectivity_plus: ^2.2.0
+  cupertino_icons: ^1.0.2
+  dartz: ^0.10.1
+  dio: ^4.0.4
+  firebase_core: null
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  get_it: ^7.2.0
+  hive_flutter: ^1.1.0
+  logger: any
+  mockito: ^5.0.17
+  mocktail: ^0.2.0
+  pretty_dio_logger: ^1.1.1
+  rxdart: ^0.27.3
+
+dev_dependencies:
+  auto_route_generator: null
+  bloc_test: null
+  build_runner: ^2.1.7
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^1.1.0
+  hive_generator: ^1.1.1
+  test: null
+  very_good_analysis: ^2.4.0
+
+flutter:
+
+  uses-material-design: true
